@@ -35,6 +35,11 @@
 
 ### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EfeCskn&show_icons=true&theme=radical" alt="EfeCskn's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EfeCskn&theme=radical&hide_border=true" width="400"/>
+</p>
+
 ---
 
 #### Top Repositories
