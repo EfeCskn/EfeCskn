@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EfeCskn&label=Profile%20views&color=0e75b6&style=flat" alt="EfeCskn" />
+</p>
+
 <h1 align="center">Hi 👋, I'm EfeCskn</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
