@@ -2,8 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=EfeCskn&label=Profile%20views&color=0e75b6&style=flat" alt="EfeCskn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm EfeCskn</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h1 align="center">Efe</h1>
+<h3 align="center">Building quiet frontends for loud systems.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Code.+Design.+Build.;Let%E2%80%99s+walk+and+work+together+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -13,10 +13,13 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 I’m focused on building sleek UIs with modern frontend tools  
-- 🏃 I love walking — clears my mind and inspires my workflow  
-- 👯 I’m open to collaborating on web apps and frontend systems  
-- 🎯 My goal: Build interfaces that feel like magic ✨  
+Working on clean, reactive UI systems with modern frontend stacks
+
+Always chasing clarity — in code, design, and execution
+
+Open to contributing to ambient, modular web tools
+
+Focused on building interfaces that feel intentional, not ornamental
 
 ---
 
@@ -39,18 +42,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=EfeCskn&show_icons=true&theme=radical" alt="EfeCskn's GitHub stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=EfeCskn&theme=radical&hide_border=true" width="400"/>
 </p>
-
----
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EfeCskn&repo=Tasknest&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EfeCskn&repo=pixelpalette&theme=buefy" />
-</a>
 
 ---
 
