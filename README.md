@@ -50,7 +50,3 @@ Focused on building interfaces that feel intentional, not ornamental
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
