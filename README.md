@@ -3,23 +3,23 @@
 </p>
 
 <h1 align="center">Efe :)</h1>
-<h3 align="center">Building quiet frontends for loud systems.</h3>
+<h3 align="center">building clean interfaces + stable apis in typescript.</h3>
 
 ---
 
-### About Me
+### about me
 
-Working on clean, reactive UI systems with modern frontend stacks
+. working on clean, reactive ui with modern stacks
 
-Always chasing clarity - in code, design, and execution
+. chasing clarity in code, design & motion
 
-Open to contributing to ambient, modular web tools
+. open to ambient, modular web tools
 
-Focused on building interfaces that feel intentional, not ornamental
+. building interfaces that feel quiet but intentional ✿
 
 ---
 
-### Tech Stack
+### tech stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -32,7 +32,7 @@ Focused on building interfaces that feel intentional, not ornamental
 
 ---
 
-### My Stats
+### my Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EfeCskn&show_icons=true&theme=radical" alt="EfeCskn's GitHub stats" width="400"/>
@@ -41,7 +41,7 @@ Focused on building interfaces that feel intentional, not ornamental
 
 ---
 
-### Let's Connect!
+### let's Connect!
 
 <p align="left">
   <a href="https://github.com/EfeCskn" target="_blank">
