@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=EfeCskn&label=Profile%20views&color=0e75b6&style=flat" alt="EfeCskn" />
 </p>
 
-<h1 align="center">Efe</h1>
+<h1 align="center">Efe :)</h1>
 <h3 align="center">Building quiet frontends for loud systems.</h3>
 
 ---
@@ -11,7 +11,7 @@
 
 Working on clean, reactive UI systems with modern frontend stacks
 
-Always chasing clarity — in code, design, and execution
+Always chasing clarity - in code, design, and execution
 
 Open to contributing to ambient, modular web tools
 
@@ -41,7 +41,7 @@ Focused on building interfaces that feel intentional, not ornamental
 
 ---
 
-### Let's Connect
+### Let's Connect!
 
 <p align="left">
   <a href="https://github.com/EfeCskn" target="_blank">
